@@ -5,6 +5,6 @@ A classic British daily dinner menu rotation to practice Git &amp; GitHub branch
 * Monday: Cold Meats & Bubble and Squeak
 * Tuesday: Shepherd's Pie
 * Wednesday: Bangers and Mash
-* Thursday: Casserole
+* Thursday: Spaghetti Bolognese
 * Friday: Fish and Chips
 * Saturday: Saturday Steak
